@@ -4,7 +4,7 @@ FROM node:18-alpine
 WORKDIR /app
 #Copy the package 
 COPY package.json . 
-# Run the code 
+# Run the code to install all 
 RUN npm install
 # Copy the code in my container directory from the local 
 COPY . .
