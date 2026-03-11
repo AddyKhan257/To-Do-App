@@ -1,7 +1,7 @@
 # 📝 Todo App - Dockerized Full Stack Application
 
 A full-stack Todo application fully containerized using Docker and Docker Compose.
-Built as part of the 90DaysOfDevOps challenge - Day 35.
+Built as part of the 90DaysOfDevOps challenge - Day 36.
 
 ## 🏗️ Architecture
 ```
