@@ -3,7 +3,7 @@
 A full-stack Todo application fully containerized using Docker and Docker Compose.
 Built as part of the 90DaysOfDevOps challenge - Day 36.
 
-## 🏗️ Architectu
+## 🏗️ Architecture
 ```
 ┌─────────────────────────────────────────────┐
 │              Docker Network                  │
