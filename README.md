@@ -16,7 +16,7 @@ Built as part of the 90DaysOfDevOps challenge - Day 36.
 └─────────────────────────────────────────────┘
 ```
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 - **Frontend**: React.js served via Nginx
 - **Backend**: Node.js + Express.js REST API
 - **Database**: MySQL 8
