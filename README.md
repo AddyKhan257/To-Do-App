@@ -79,7 +79,7 @@ Open browser: **http://localhost:3000**
 - Healthchecks for proper container startup order
 
 ## 👤 Author
-**Mohammad Adnan Khan**
+**Mohammad Adnan **
 - GitHub: [@AddyKhan257](https://github.com/AddyKhan257)
 - Docker Hub: [mohammadadnankhan](https://hub.docker.com/u/mohammadadnankhan)
 - LinkedIn: [Mohammad Adnan Khan](https://www.linkedin.com/in/mohammad-adnan-khan-8099802b1) 
